@@ -2,7 +2,7 @@
 
 ###Requirements
 
-Create an HTTP service for tracking progress of background jobs. You can use a programming language/frameworks of your choosing.
+Create an HTTP service for tracking progress of background jobs.
 
 The job is represented by:
 
